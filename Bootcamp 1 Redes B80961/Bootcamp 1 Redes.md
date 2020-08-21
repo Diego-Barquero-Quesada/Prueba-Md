@@ -60,7 +60,7 @@ No es visible desde el exterior.
 Un firewall es un sistema de seguridad para bloquear accesos no autorizados a una computadora mientras sigue permitiendo la comunicación de la computadora con otros servicios autorizados.
 
 -  ¿Cómo pueden verificar si tienen un firewall operativo en su máquina?
-![Verificar firewall](Firewall1.png)
+![Verificar firewall](Firewall1.jpg)
 
 Mediante el comando **ufw status** se puede verificar si el firewall esta activado.
 
